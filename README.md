@@ -3,8 +3,6 @@
 <h3 align="center">Front End Developer| ReactJS | NextJS</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **NextJS,MongoDB**
-
 - 📝 I regularly write articles on [https://medium.com/@prathyushaande0](https://medium.com/@prathyushaande0)
 
 - 📫 How to reach me **prathyushaande01@gmail.com**
